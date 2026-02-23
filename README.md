@@ -1,6 +1,6 @@
 # PyTorch Computer Vision Fundamentals
 
-![GitHub last commit](https://img.shields.io/github/last-commit/AbdiR0099/pytorch_computer_vision?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/AbdiR0099/pytorch_computer_vision)
 ![GitHub repo size](https://img.shields.io/github/repo-size/AbdiR0099/pytorch_computer_vision?style=flat-square)
 ![GitHub language count](https://img.shields.io/github/languages/count/AbdiR0099/pytorch_computer_vision?style=flat-square)
 
