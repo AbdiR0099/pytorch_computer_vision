@@ -33,10 +33,12 @@ While standard linear layers look at a whole image indiscriminately, CNNs look a
 After building the architecture and running the training loops, I evaluated the model on unseen test data. Beyond just looking at accuracy, I visualized the predictions alongside the ground truth labels to conduct error analysis—observing, for example, if the model confuses visually similar classes like "Shirt" and "T-shirt/top".
 
 ![Model Predictions](visualizations/model_predictions.png)
+
 *Visualizing the CNN's predictions against actual test dataset labels.*
 
 Making a confusion Matrix for further performance evaluation.
 ![Model Predictions](visualizations/confusion_matrix.png)
+
 *Darker Boxes along the diagonal is a good sign # Ideal Confusion matrix has only the diagonal line as darkened.*
 
 ##  Tech Stack
