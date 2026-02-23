@@ -35,6 +35,10 @@ After building the architecture and running the training loops, I evaluated the 
 ![Model Predictions](visualizations/model_predictions.png)
 *Visualizing the CNN's predictions against actual test dataset labels.*
 
+Making a confusion Matrix for further performance evaluation.
+![Model Predictions](visualizations/confusion_matrix.png)
+*Darker Boxes along the diagonal is a good sign # Ideal Confusion matrix has only the diagonal line as darkened.*
+
 ##  Tech Stack
 * **Language:** Python
 * **Deep Learning Framework:** PyTorch (`torch`, `torch.nn`, `torch.utils.data`)
